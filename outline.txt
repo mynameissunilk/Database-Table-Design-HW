@@ -1,0 +1,26 @@
+
+[Accounts]
+Acct_No (key)
+Checking/Debit_Acct
+Credit_Acct
+Credit_Rating 
+Short_Term_Liabilities
+Long_Term_Liabilities
+Savings_Interest_Rate
+Credit_Interest_Rate
+
+[Users]
+Full_Name
+SSN (key)
+Address
+Phone#
+E-mail
+
+
+[Transactions]
+Acct_No(key)
+Payment_isOverdue
+Scheduled_Payment_Date
+Transaction_Date
+Accounts_Payable
+Accounts_Receivable
